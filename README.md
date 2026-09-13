@@ -23,17 +23,13 @@ A desktop-based Library Management System developed using **Java Swing**, **JDBC
 
 ## Screenshots
 
-### Login Page
-
-![Login Page](screenshots/login-page.png)
-
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/homepage.jpeg)
 
-### Project Structure
+### Login Page
 
-![Project Structure](screenshots/project-structure.png)
+![Login Page](screenshots/loginpage.jpeg)
 
 ## Database
 
