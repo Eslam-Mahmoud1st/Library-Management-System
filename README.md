@@ -36,9 +36,3 @@ A desktop-based Library Management System developed using **Java Swing**, **JDBC
 The project uses **SQL Server** as its database and **JDBC** for connecting the Java application to the database.
 
 The SQL database script is included in the repository.
-
-## Author
-
-**Eslam Mahmoud**
-
-Developed independently as a college-level software engineering project.
