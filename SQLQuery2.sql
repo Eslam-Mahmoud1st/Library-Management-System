@@ -1,2 +1,0 @@
-ALTER TABLE Books
-ADD IsBorrowed BIT DEFAULT 0;
